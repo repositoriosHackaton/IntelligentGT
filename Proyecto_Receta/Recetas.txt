@@ -1,0 +1,877 @@
+{
+    "Apple": [
+        {
+            "Nombre": "Tarta de Manzana",
+            "Ingredientes": [
+                "2 tazas de harina",
+                "1 taza de azúcar",
+                "1/2 taza de mantequilla",
+                "4 manzanas",
+                "1 cucharadita de canela",
+                "1/2 cucharadita de nuez moscada"
+            ],
+            "Pasos": [
+                "Precalentar el horno a 180°C.",
+                "Mezclar la harina, el azúcar y la mantequilla hasta formar una masa.",
+                "Extender la masa en un molde para tarta.",
+                "Pelar y cortar las manzanas en rodajas.",
+                "Colocar las rodajas de manzana sobre la masa.",
+                "Espolvorear canela y nuez moscada sobre las manzanas.",
+                "Hornear durante 45 minutos o hasta que esté dorada."
+            ]
+        },
+        {
+            "Nombre": "Ensalada de Manzana",
+            "Ingredientes": [
+                "2 manzanas",
+                "1 lechuga",
+                "1/2 taza de nueces",
+                "1/4 taza de pasas",
+                "1/2 taza de yogur natural",
+                "1 cucharada de miel"
+            ],
+            "Pasos": [
+                "Lavar y cortar las manzanas en cubos.",
+                "Lavar y cortar la lechuga.",
+                "Mezclar las manzanas, la lechuga, las nueces y las pasas en un bol.",
+                "En un recipiente aparte, mezclar el yogur con la miel.",
+                "Añadir el aderezo de yogur a la ensalada y mezclar bien."
+            ]
+        },
+        {
+            "Nombre": "Manzanas al Horno",
+            "Ingredientes": [
+                "4 manzanas",
+                "4 cucharadas de azúcar moreno",
+                "1 cucharadita de canela",
+                "1/4 taza de nueces picadas",
+                "1/4 taza de pasas",
+                "1/2 taza de agua"
+            ],
+            "Pasos": [
+                "Precalentar el horno a 180°C.",
+                "Lavar y quitar el corazón de las manzanas.",
+                "Mezclar el azúcar moreno, la canela, las nueces y las pasas.",
+                "Rellenar las manzanas con la mezcla de azúcar y frutos secos.",
+                "Colocar las manzanas en una fuente para horno y añadir agua.",
+                "Hornear durante 30-35 minutos o hasta que las manzanas estén tiernas."
+            ]
+        }
+    ],
+    "Banana": [
+        {
+            "Nombre": "Pan de Banana",
+            "Ingredientes": [
+                "3 bananas maduras",
+                "1/2 taza de mantequilla derretida",
+                "1 taza de azúcar",
+                "1 huevo",
+                "1 cucharadita de vainilla",
+                "1 cucharadita de bicarbonato de sodio",
+                "1/2 cucharadita de sal",
+                "1 1/2 tazas de harina"
+            ],
+            "Pasos": [
+                "Precalentar el horno a 175°C.",
+                "Machacar las bananas en un bol.",
+                "Añadir la mantequilla derretida y mezclar.",
+                "Agregar el azúcar, el huevo y la vainilla y mezclar bien.",
+                "Añadir el bicarbonato de sodio y la sal.",
+                "Incorporar la harina y mezclar hasta obtener una masa homogénea.",
+                "Verter la masa en un molde para pan engrasado.",
+                "Hornear durante 60-65 minutos o hasta que al insertar un palillo, este salga limpio."
+            ]
+        },
+        {
+            "Nombre": "Smoothie de Banana",
+            "Ingredientes": [
+                "2 bananas",
+                "1 taza de leche",
+                "1/2 taza de yogur",
+                "1 cucharada de miel",
+                "1/2 cucharadita de vainilla",
+                "Hielo al gusto"
+            ],
+            "Pasos": [
+                "Pelar y cortar las bananas.",
+                "Colocar todos los ingredientes en una licuadora.",
+                "Licuar hasta obtener una mezcla suave y homogénea.",
+                "Servir inmediatamente."
+            ]
+        },
+        {
+            "Nombre": "Bananas Foster",
+            "Ingredientes": [
+                "2 bananas",
+                "1/4 taza de mantequilla",
+                "1/2 taza de azúcar moreno",
+                "1/4 taza de ron oscuro",
+                "1 cucharadita de canela",
+                "Helado de vainilla para servir"
+            ],
+            "Pasos": [
+                "Pelar y cortar las bananas por la mitad a lo largo.",
+                "Derretir la mantequilla en una sartén a fuego medio.",
+                "Añadir el azúcar moreno y la canela y cocinar hasta que se disuelva.",
+                "Agregar las bananas y cocinar hasta que estén doradas.",
+                "Añadir el ron y prender fuego con cuidado para flambear.",
+                "Servir las bananas calientes sobre helado de vainilla."
+            ]
+        }
+    ],
+    "Orange": [
+        {
+            "Nombre": "Tarta de Naranja",
+            "Ingredientes": [
+                "1 taza de jugo de naranja",
+                "1 taza de azúcar",
+                "1/2 taza de mantequilla",
+                "3 huevos",
+                "1 cucharadita de ralladura de naranja",
+                "2 tazas de harina",
+                "1 cucharadita de polvo de hornear",
+                "1/2 cucharadita de sal"
+            ],
+            "Pasos": [
+                "Precalentar el horno a 180°C.",
+                "Mezclar la mantequilla y el azúcar hasta que estén cremosos.",
+                "Añadir los huevos uno a uno, mezclando bien.",
+                "Agregar el jugo y la ralladura de naranja.",
+                "Tamizar la harina, el polvo de hornear y la sal e incorporar a la mezcla.",
+                "Verter la mezcla en un molde engrasado.",
+                "Hornear durante 35-40 minutos o hasta que esté dorado."
+            ]
+        },
+        {
+            "Nombre": "Ensalada de Naranja",
+            "Ingredientes": [
+                "3 naranjas",
+                "1 cebolla roja pequeña",
+                "1/4 taza de aceitunas negras",
+                "1 cucharada de perejil picado",
+                "2 cucharadas de aceite de oliva",
+                "Sal y pimienta al gusto"
+            ],
+            "Pasos": [
+                "Pelar y cortar las naranjas en rodajas.",
+                "Cortar la cebolla en rodajas finas.",
+                "Mezclar las naranjas, la cebolla, las aceitunas y el perejil en un bol.",
+                "Añadir el aceite de oliva, la sal y la pimienta.",
+                "Mezclar bien y servir."
+            ]
+        },
+        {
+            "Nombre": "Pollo a la Naranja",
+            "Ingredientes": [
+                "4 pechugas de pollo",
+                "1 taza de jugo de naranja",
+                "1/4 taza de salsa de soja",
+                "2 cucharadas de miel",
+                "2 dientes de ajo picados",
+                "1 cucharadita de jengibre rallado",
+                "1 cucharada de aceite de oliva"
+            ],
+            "Pasos": [
+                "Mezclar el jugo de naranja, la salsa de soja, la miel, el ajo y el jengibre en un bol.",
+                "Marinar las pechugas de pollo en la mezcla durante al menos 30 minutos.",
+                "Calentar el aceite de oliva en una sartén a fuego medio.",
+                "Cocinar las pechugas de pollo hasta que estén doradas y cocidas por completo.",
+                "Servir el pollo con la salsa de marinado reducida."
+            ]
+        }
+    ],
+    "Pear": [
+        {
+            "Nombre": "Tarta de Pera",
+            "Ingredientes": [
+                "2 tazas de harina",
+                "1 taza de azúcar",
+                "1/2 taza de mantequilla",
+                "4 peras",
+                "1 cucharadita de canela",
+                "1/2 cucharadita de nuez moscada"
+            ],
+            "Pasos": [
+                "Precalentar el horno a 180°C.",
+                "Mezclar la harina, el azúcar y la mantequilla hasta formar una masa.",
+                "Extender la masa en un molde para tarta.",
+                "Pelar y cortar las peras en rodajas.",
+                "Colocar las rodajas de pera sobre la masa.",
+                "Espolvorear canela y nuez moscada sobre las peras.",
+                "Hornear durante 45 minutos o hasta que esté dorada."
+            ]
+        },
+        {
+            "Nombre": "Ensalada de Pera",
+            "Ingredientes": [
+                "2 peras",
+                "1 lechuga",
+                "1/2 taza de nueces",
+                "1/4 taza de queso azul desmenuzado",
+                "1/2 taza de vinagreta de miel"
+            ],
+            "Pasos": [
+                "Lavar y cortar las peras en cubos.",
+                "Lavar y cortar la lechuga.",
+                "Mezclar las peras, la lechuga, las nueces y el queso azul en un bol.",
+                "Añadir la vinagreta de miel y mezclar bien."
+            ]
+        },
+        {
+            "Nombre": "Peras al Vino",
+            "Ingredientes": [
+                "4 peras",
+                "1 botella de vino tinto",
+                "1 taza de azúcar",
+                "1 rama de canela",
+                "1 cáscara de naranja"
+            ],
+            "Pasos": [
+                "Pelar las peras, dejando el tallo.",
+                "Colocar las peras en una cacerola grande.",
+                "Añadir el vino tinto, el azúcar, la canela y la cáscara de naranja.",
+                "Cocinar a fuego lento durante 30-40 minutos, hasta que las peras estén tiernas.",
+                "Servir las peras con la salsa de vino reducida."
+            ]
+        }
+    ],
+    "Mango": [
+        {
+            "Nombre": "Smoothie de Mango",
+            "Ingredientes": [
+                "2 mangos maduros",
+                "1 taza de leche",
+                "1/2 taza de yogur",
+                "1 cucharada de miel",
+                "Hielo al gusto"
+            ],
+            "Pasos": [
+                "Pelar y cortar los mangos.",
+                "Colocar todos los ingredientes en una licuadora.",
+                "Licuar hasta obtener una mezcla suave y homogénea.",
+                "Servir inmediatamente."
+            ]
+        },
+        {
+            "Nombre": "Ensalada de Mango y Aguacate",
+            "Ingredientes": [
+                "2 mangos",
+                "2 aguacates",
+                "1 cebolla roja",
+                "1/4 taza de cilantro picado",
+                "2 cucharadas de jugo de limón",
+                "Sal y pimienta al gusto"
+            ],
+            "Pasos": [
+                "Pelar y cortar los mangos y aguacates en cubos.",
+                "Cortar la cebolla en rodajas finas.",
+                "Mezclar el mango, el aguacate, la cebolla y el cilantro en un bol.",
+                "Añadir el jugo de limón, la sal y la pimienta.",
+                "Mezclar bien y servir."
+            ]
+        },
+        {
+            "Nombre": "Pollo con Salsa de Mango",
+            "Ingredientes": [
+                "4 pechugas de pollo",
+                "2 mangos maduros",
+                "1/4 taza de salsa de soja",
+                "1 cucharada de miel",
+                "1 diente de ajo picado",
+                "1 cucharadita de jengibre rallado"
+            ],
+            "Pasos": [
+                "Pelar y cortar los mangos en cubos.",
+                "Mezclar los mangos, la salsa de soja, la miel, el ajo y el jengibre en un bol.",
+                "Marinar las pechugas de pollo en la mezcla durante al menos 30 minutos.",
+                "Calentar una sartén a fuego medio y cocinar el pollo hasta que esté dorado y cocido por completo.",
+                "Servir el pollo con la salsa de mango."
+            ]
+        }
+    ],
+    "Pineapple": [
+        {
+            "Nombre": "Piña Colada",
+            "Ingredientes": [
+                "1 taza de piña en trozos",
+                "1/2 taza de leche de coco",
+                "1/4 taza de ron (opcional)",
+                "1 cucharada de azúcar",
+                "Hielo al gusto"
+            ],
+            "Pasos": [
+                "Colocar la piña, la leche de coco, el ron (si se usa), el azúcar y el hielo en una licuadora.",
+                "Licuar hasta obtener una mezcla suave y homogénea.",
+                "Servir inmediatamente."
+            ]
+        },
+        {
+            "Nombre": "Ensalada de Piña",
+            "Ingredientes": [
+                "1 piña",
+                "1 pepino",
+                "1/4 taza de cilantro picado",
+                "2 cucharadas de jugo de lima",
+                "Sal y pimienta al gusto"
+            ],
+            "Pasos": [
+                "Pelar y cortar la piña en cubos.",
+                "Pelar y cortar el pepino en rodajas.",
+                "Mezclar la piña, el pepino y el cilantro en un bol.",
+                "Añadir el jugo de lima, la sal y la pimienta.",
+                "Mezclar bien y servir."
+            ]
+        },
+        {
+            "Nombre": "Pollo a la Piña",
+            "Ingredientes": [
+                "4 pechugas de pollo",
+                "1 taza de piña en trozos",
+                "1/4 taza de salsa de soja",
+                "1 cucharada de miel",
+                "2 dientes de ajo picados",
+                "1 cucharadita de jengibre rallado"
+            ],
+            "Pasos": [
+                "Mezclar la piña, la salsa de soja, la miel, el ajo y el jengibre en un bol.",
+                "Marinar las pechugas de pollo en la mezcla durante al menos 30 minutos.",
+                "Calentar una sartén a fuego medio y cocinar el pollo hasta que esté dorado y cocido por completo.",
+                "Servir el pollo con la salsa de piña."
+            ]
+        }
+    ],
+    "Strawberry": [
+        {
+            "Nombre": "Tarta de Fresas",
+            "Ingredientes": [
+                "2 tazas de harina",
+                "1 taza de azúcar",
+                "1/2 taza de mantequilla",
+                "2 tazas de fresas",
+                "1 cucharadita de vainilla",
+                "1/2 cucharadita de sal"
+            ],
+            "Pasos": [
+                "Precalentar el horno a 180°C.",
+                "Mezclar la harina, el azúcar y la mantequilla hasta formar una masa.",
+                "Extender la masa en un molde para tarta.",
+                "Lavar y cortar las fresas en rodajas.",
+                "Colocar las rodajas de fresa sobre la masa.",
+                "Espolvorear azúcar y vainilla sobre las fresas.",
+                "Hornear durante 45 minutos o hasta que esté dorada."
+            ]
+        },
+        {
+            "Nombre": "Ensalada de Fresas y Espinacas",
+            "Ingredientes": [
+                "2 tazas de fresas",
+                "4 tazas de espinacas frescas",
+                "1/4 taza de nueces",
+                "1/4 taza de queso feta desmenuzado",
+                "2 cucharadas de vinagre balsámico",
+                "1 cucharada de miel"
+            ],
+            "Pasos": [
+                "Lavar y cortar las fresas en rodajas.",
+                "Lavar las espinacas.",
+                "Mezclar las fresas, las espinacas, las nueces y el queso feta en un bol.",
+                "En un recipiente aparte, mezclar el vinagre balsámico y la miel.",
+                "Añadir el aderezo a la ensalada y mezclar bien."
+            ]
+        },
+        {
+            "Nombre": "Batido de Fresas",
+            "Ingredientes": [
+                "2 tazas de fresas",
+                "1 taza de leche",
+                "1/2 taza de yogur",
+                "1 cucharada de miel",
+                "Hielo al gusto"
+            ],
+            "Pasos": [
+                "Lavar y cortar las fresas.",
+                "Colocar todos los ingredientes en una licuadora.",
+                "Licuar hasta obtener una mezcla suave y homogénea.",
+                "Servir inmediatamente."
+            ]
+        }
+    ],
+    "Kiwi": [
+        {
+            "Nombre": "Smoothie de Kiwi",
+            "Ingredientes": [
+                "3 kiwis",
+                "1 taza de jugo de naranja",
+                "1/2 taza de yogur",
+                "1 cucharada de miel",
+                "Hielo al gusto"
+            ],
+            "Pasos": [
+                "Pelar y cortar los kiwis.",
+                "Colocar todos los ingredientes en una licuadora.",
+                "Licuar hasta obtener una mezcla suave y homogénea.",
+                "Servir inmediatamente."
+            ]
+        },
+        {
+            "Nombre": "Ensalada de Kiwi y Pepino",
+            "Ingredientes": [
+                "3 kiwis",
+                "1 pepino",
+                "1/4 taza de menta picada",
+                "2 cucharadas de jugo de lima",
+                "Sal y pimienta al gusto"
+            ],
+            "Pasos": [
+                "Pelar y cortar los kiwis en rodajas.",
+                "Pelar y cortar el pepino en rodajas.",
+                "Mezclar el kiwi, el pepino y la menta en un bol.",
+                "Añadir el jugo de lima, la sal y la pimienta.",
+                "Mezclar bien y servir."
+            ]
+        },
+        {
+            "Nombre": "Parfait de Kiwi y Yogur",
+            "Ingredientes": [
+                "3 kiwis",
+                "2 tazas de yogur griego",
+                "1/2 taza de granola",
+                "1 cucharada de miel"
+            ],
+            "Pasos": [
+                "Pelar y cortar los kiwis en cubos.",
+                "En un vaso o bol, colocar una capa de yogur.",
+                "Añadir una capa de kiwi y una capa de granola.",
+                "Repetir las capas hasta llenar el vaso.",
+                "Rociar miel por encima y servir."
+            ]
+        }
+    ],
+    "Grape": [
+        {
+            "Nombre": "Ensalada de Uvas y Queso",
+            "Ingredientes": [
+                "2 tazas de uvas",
+                "1/2 taza de queso azul desmenuzado",
+                "1/4 taza de nueces",
+                "2 cucharadas de aceite de oliva",
+                "1 cucharada de vinagre balsámico",
+                "Sal y pimienta al gusto"
+            ],
+            "Pasos": [
+                "Lavar y cortar las uvas por la mitad.",
+                "Mezclar las uvas, el queso azul y las nueces en un bol.",
+                "En un recipiente aparte, mezclar el aceite de oliva y el vinagre balsámico.",
+                "Añadir el aderezo a la ensalada y mezclar bien.",
+                "Salpimentar al gusto y servir."
+            ]
+        },
+        {
+            "Nombre": "Pollo con Salsa de Uvas",
+            "Ingredientes": [
+                "4 pechugas de pollo",
+                "2 tazas de uvas",
+                "1/2 taza de vino blanco",
+                "1/4 taza de caldo de pollo",
+                "1 cucharada de miel",
+                "2 dientes de ajo picados",
+                "1 cucharada de aceite de oliva"
+            ],
+            "Pasos": [
+                "Calentar el aceite de oliva en una sartén a fuego medio.",
+                "Cocinar las pechugas de pollo hasta que estén doradas y cocidas por completo.",
+                "Retirar el pollo y en la misma sartén, añadir el ajo y cocinar por 1 minuto.",
+                "Añadir las uvas, el vino blanco, el caldo de pollo y la miel.",
+                "Cocinar a fuego medio hasta que la salsa se reduzca.",
+                "Añadir el pollo de nuevo a la sartén y cubrir con la salsa de uvas.",
+                "Servir caliente."
+            ]
+        },
+        {
+            "Nombre": "Helado de Uvas",
+            "Ingredientes": [
+                "2 tazas de uvas",
+                "1 taza de yogur griego",
+                "1/2 taza de azúcar",
+                "1 cucharada de jugo de limón"
+            ],
+            "Pasos": [
+                "Lavar y congelar las uvas.",
+                "Colocar las uvas congeladas, el yogur, el azúcar y el jugo de limón en una licuadora.",
+                "Licuar hasta obtener una mezcla suave.",
+                "Verter la mezcla en un recipiente y congelar por al menos 2 horas antes de servir."
+            ]
+        }
+    ],
+    "Watermelon": [
+        {
+            "Nombre": "Ensalada de Sandía y Queso Feta",
+            "Ingredientes": [
+                "2 tazas de sandía en cubos",
+                "1/2 taza de queso feta desmenuzado",
+                "1/4 taza de hojas de menta",
+                "2 cucharadas de aceite de oliva",
+                "1 cucharada de jugo de limón",
+                "Sal y pimienta al gusto"
+            ],
+            "Pasos": [
+                "Mezclar la sandía, el queso feta y la menta en un bol.",
+                "En un recipiente aparte, mezclar el aceite de oliva y el jugo de limón.",
+                "Añadir el aderezo a la ensalada y mezclar bien.",
+                "Salpimentar al gusto y servir."
+            ]
+        },
+        {
+            "Nombre": "Batido de Sandía",
+            "Ingredientes": [
+                "2 tazas de sandía en cubos",
+                "1 taza de agua de coco",
+                "1 cucharada de jugo de limón",
+                "Hielo al gusto"
+            ],
+            "Pasos": [
+                "Colocar la sandía, el agua de coco, el jugo de limón y el hielo en una licuadora.",
+                "Licuar hasta obtener una mezcla suave y homogénea.",
+                "Servir inmediatamente."
+            ]
+        },
+        {
+            "Nombre": "Helado de Sandía",
+            "Ingredientes": [
+                "3 tazas de sandía en cubos",
+                "1/2 taza de azúcar",
+                "1 cucharada de jugo de limón",
+                "1/4 taza de agua"
+            ],
+            "Pasos": [
+                "Colocar la sandía en una licuadora y licuar hasta obtener un puré.",
+                "Pasar el puré por un colador para eliminar las semillas.",
+                "Mezclar el puré de sandía con el azúcar, el jugo de limón y el agua.",
+                "Verter la mezcla en moldes para helado y congelar por al menos 4 horas antes de servir."
+            ]
+        }
+    ],
+    "Papaya": [
+        {
+            "Nombre": "Ensalada de Papaya",
+            "Ingredientes": [
+                "1 papaya",
+                "1 pepino",
+                "1/4 taza de cebolla roja en rodajas",
+                "2 cucharadas de jugo de lima",
+                "1 cucharada de miel",
+                "Sal y pimienta al gusto"
+            ],
+            "Pasos": [
+                "Pelar y cortar la papaya en cubos.",
+                "Pelar y cortar el pepino en rodajas.",
+                "Mezclar la papaya, el pepino y la cebolla en un bol.",
+                "En un recipiente aparte, mezclar el jugo de lima y la miel.",
+                "Añadir el aderezo a la ensalada y mezclar bien.",
+                "Salpimentar al gusto y servir."
+            ]
+        },
+        {
+            "Nombre": "Batido de Papaya",
+            "Ingredientes": [
+                "1 papaya madura",
+                "1 taza de leche",
+                "1/2 taza de yogur",
+                "1 cucharada de miel",
+                "Hielo al gusto"
+            ],
+            "Pasos": [
+                "Pelar y cortar la papaya.",
+                "Colocar todos los ingredientes en una licuadora.",
+                "Licuar hasta obtener una mezcla suave y homogénea.",
+                "Servir inmediatamente."
+            ]
+        },
+        {
+            "Nombre": "Papaya con Yogur y Miel",
+            "Ingredientes": [
+                "1 papaya madura",
+                "1 taza de yogur griego",
+                "2 cucharadas de miel",
+                "1/4 taza de nueces picadas"
+            ],
+            "Pasos": [
+                "Pelar y cortar la papaya en cubos.",
+                "Colocar la papaya en un bol y cubrir con el yogur.",
+                "Rociar miel por encima y espolvorear las nueces picadas.",
+                "Servir inmediatamente."
+            ]
+        }
+    ],
+    "Melon": [
+        {
+            "Nombre": "Ensalada de Melón y Jamón",
+            "Ingredientes": [
+                "2 tazas de melón en cubos",
+                "1/2 taza de jamón serrano en tiras",
+                "1/4 taza de menta picada",
+                "2 cucharadas de aceite de oliva",
+                "1 cucharada de jugo de limón",
+                "Sal y pimienta al gusto"
+            ],
+            "Pasos": [
+                "Mezclar el melón, el jamón serrano y la menta en un bol.",
+                "En un recipiente aparte, mezclar el aceite de oliva y el jugo de limón.",
+                "Añadir el aderezo a la ensalada y mezclar bien.",
+                "Salpimentar al gusto y servir."
+            ]
+        },
+        {
+            "Nombre": "Batido de Melón",
+            "Ingredientes": [
+                "2 tazas de melón en cubos",
+                "1 taza de leche",
+                "1/2 taza de yogur",
+                "1 cucharada de miel",
+                "Hielo al gusto"
+            ],
+            "Pasos": [
+                "Colocar el melón, la leche, el yogur, la miel y el hielo en una licuadora.",
+                "Licuar hasta obtener una mezcla suave y homogénea.",
+                "Servir inmediatamente."
+            ]
+        },
+        {
+            "Nombre": "Helado de Melón",
+            "Ingredientes": [
+                "3 tazas de melón en cubos",
+                "1/2 taza de azúcar",
+                "1 cucharada de jugo de limón",
+                "1/4 taza de agua"
+            ],
+            "Pasos": [
+                "Colocar el melón en una licuadora y licuar hasta obtener un puré.",
+                "Pasar el puré por un colador para eliminar las semillas.",
+                "Mezclar el puré de melón con el azúcar, el jugo de limón y el agua.",
+                "Verter la mezcla en moldes para helado y congelar por al menos 4 horas antes de servir."
+            ]
+        }
+    ],
+        "Cherry": [
+        {
+            "Nombre": "Tarta de Cereza",
+            "Ingredientes": [
+                "2 tazas de cerezas deshuesadas",
+                "1 taza de azúcar",
+                "1/2 taza de harina",
+                "1 taza de leche",
+                "1/2 taza de mantequilla",
+                "1 cucharadita de extracto de vainilla",
+                "1 pizca de sal"
+            ],
+            "Pasos": [
+                "Precalentar el horno a 180°C.",
+                "Derretir la mantequilla y verterla en el fondo de un molde para hornear.",
+                "Mezclar la harina, el azúcar, la leche, la vainilla y la sal hasta obtener una masa homogénea.",
+                "Verter la masa sobre la mantequilla en el molde.",
+                "Distribuir las cerezas deshuesadas sobre la masa.",
+                "Hornear durante 45-50 minutos o hasta que la tarta esté dorada y burbujeante.",
+                "Dejar enfriar antes de servir."
+            ]
+        },
+        {
+            "Nombre": "Batido de Cereza",
+            "Ingredientes": [
+                "2 tazas de cerezas deshuesadas",
+                "1 taza de leche",
+                "1/2 taza de yogur",
+                "1 cucharada de miel",
+                "Hielo al gusto"
+            ],
+            "Pasos": [
+                "Colocar las cerezas, la leche, el yogur, la miel y el hielo en una licuadora.",
+                "Licuar hasta obtener una mezcla suave y homogénea.",
+                "Servir inmediatamente."
+            ]
+        },
+        {
+            "Nombre": "Ensalada de Cereza y Espinacas",
+            "Ingredientes": [
+                "2 tazas de cerezas deshuesadas",
+                "4 tazas de espinacas frescas",
+                "1/4 taza de nueces",
+                "1/4 taza de queso de cabra desmenuzado",
+                "2 cucharadas de vinagre balsámico",
+                "1 cucharada de miel"
+            ],
+            "Pasos": [
+                "Mezclar las cerezas, las espinacas, las nueces y el queso de cabra en un bol.",
+                "En un recipiente aparte, mezclar el vinagre balsámico y la miel.",
+                "Añadir el aderezo a la ensalada y mezclar bien.",
+                "Servir inmediatamente."
+            ]
+        }
+    ],
+    "Granadilla": [
+        {
+            "Nombre": "Ensalada de Granada y Naranjas",
+            "Ingredientes": [
+                "1 taza de granos de granada",
+                "2 naranjas",
+                "1/4 taza de almendras laminadas",
+                "1/4 taza de menta picada",
+                "2 cucharadas de aceite de oliva",
+                "1 cucharada de jugo de limón",
+                "Sal y pimienta al gusto"
+            ],
+            "Pasos": [
+                "Pelar y cortar las naranjas en rodajas.",
+                "Mezclar los granos de granada, las rodajas de naranja, las almendras y la menta en un bol.",
+                "En un recipiente aparte, mezclar el aceite de oliva y el jugo de limón.",
+                "Añadir el aderezo a la ensalada y mezclar bien.",
+                "Salpimentar al gusto y servir."
+            ]
+        },
+        {
+            "Nombre": "Batido de Granada",
+            "Ingredientes": [
+                "1 taza de granos de granada",
+                "1 taza de yogur",
+                "1/2 taza de jugo de naranja",
+                "1 cucharada de miel",
+                "Hielo al gusto"
+            ],
+            "Pasos": [
+                "Colocar los granos de granada, el yogur, el jugo de naranja, la miel y el hielo en una licuadora.",
+                "Licuar hasta obtener una mezcla suave y homogénea.",
+                "Servir inmediatamente."
+            ]
+        },
+        {
+            "Nombre": "Pollo con Salsa de Granada",
+            "Ingredientes": [
+                "4 pechugas de pollo",
+                "1 taza de granos de granada",
+                "1/4 taza de jugo de granada",
+                "1/4 taza de caldo de pollo",
+                "1 cucharada de miel",
+                "2 dientes de ajo picados",
+                "1 cucharada de aceite de oliva",
+                "Sal y pimienta al gusto"
+            ],
+            "Pasos": [
+                "Calentar el aceite de oliva en una sartén a fuego medio.",
+                "Cocinar las pechugas de pollo hasta que estén doradas y cocidas por completo.",
+                "Retirar el pollo y en la misma sartén, añadir el ajo y cocinar por 1 minuto.",
+                "Añadir los granos de granada, el jugo de granada, el caldo de pollo y la miel.",
+                "Cocinar a fuego medio hasta que la salsa se reduzca.",
+                "Añadir el pollo de nuevo a la sartén y cubrir con la salsa de granada.",
+                "Salpimentar al gusto y servir caliente."
+            ]
+        }
+    ],
+    "Peach": [
+        {
+            "Nombre": "Tarta de Durazno",
+            "Ingredientes": [
+                "3 tazas de duraznos en rodajas",
+                "1 taza de azúcar",
+                "1/2 taza de harina",
+                "1 taza de leche",
+                "1/2 taza de mantequilla",
+                "1 cucharadita de extracto de vainilla",
+                "1 pizca de sal"
+            ],
+            "Pasos": [
+                "Precalentar el horno a 180°C.",
+                "Derretir la mantequilla y verterla en el fondo de un molde para hornear.",
+                "Mezclar la harina, el azúcar, la leche, la vainilla y la sal hasta obtener una masa homogénea.",
+                "Verter la masa sobre la mantequilla en el molde.",
+                "Distribuir las rodajas de durazno sobre la masa.",
+                "Hornear durante 45-50 minutos o hasta que la tarta esté dorada y burbujeante.",
+                "Dejar enfriar antes de servir."
+            ]
+        },
+        {
+            "Nombre": "Batido de Durazno",
+            "Ingredientes": [
+                "2 tazas de duraznos en rodajas",
+                "1 taza de leche",
+                "1/2 taza de yogur",
+                "1 cucharada de miel",
+                "Hielo al gusto"
+            ],
+            "Pasos": [
+                "Colocar los duraznos, la leche, el yogur, la miel y el hielo en una licuadora.",
+                "Licuar hasta obtener una mezcla suave y homogénea.",
+                "Servir inmediatamente."
+            ]
+        },
+        {
+            "Nombre": "Ensalada de Durazno y Mozzarella",
+            "Ingredientes": [
+                "2 tazas de duraznos en rodajas",
+                "1 taza de mozzarella fresca en rodajas",
+                "1/4 taza de albahaca fresca",
+                "2 cucharadas de aceite de oliva",
+                "1 cucharada de vinagre balsámico",
+                "Sal y pimienta al gusto"
+            ],
+            "Pasos": [
+                "Mezclar los duraznos, la mozzarella y la albahaca en un bol.",
+                "En un recipiente aparte, mezclar el aceite de oliva y el vinagre balsámico.",
+                "Añadir el aderezo a la ensalada y mezclar bien.",
+                "Salpimentar al gusto y servir."
+            ]
+        }
+    ],
+    "Fig": [
+        {
+            "Nombre": "Ensalada de Higos y Queso de Cabra",
+            "Ingredientes": [
+                "1 taza de higos frescos",
+                "1/2 taza de queso de cabra desmenuzado",
+                "1/4 taza de nueces",
+                "2 tazas de rúcula",
+                "2 cucharadas de miel",
+                "2 cucharadas de vinagre balsámico",
+                "1 cucharada de aceite de oliva",
+                "Sal y pimienta al gusto"
+            ],
+            "Pasos": [
+                "Lavar y cortar los higos en cuartos.",
+                "Mezclar los higos, el queso de cabra, las nueces y la rúcula en un bol.",
+                "En un recipiente aparte, mezclar la miel, el vinagre balsámico y el aceite de oliva.",
+                "Añadir el aderezo a la ensalada y mezclar bien.",
+                "Salpimentar al gusto y servir."
+            ]
+        },
+        {
+            "Nombre": "Higos Rellenos de Queso Azul",
+            "Ingredientes": [
+                "8 higos frescos",
+                "1/2 taza de queso azul desmenuzado",
+                "1/4 taza de nueces picadas",
+                "2 cucharadas de miel"
+            ],
+            "Pasos": [
+                "Cortar los higos por la mitad y retirar un poco de la pulpa.",
+                "Mezclar el queso azul, las nueces y la miel.",
+                "Rellenar los higos con la mezcla de queso.",
+                "Servir como aperitivo o postre."
+            ]
+        },
+        {
+            "Nombre": "Tostadas con Higos y Miel",
+            "Ingredientes": [
+                "4 rebanadas de pan",
+                "8 higos frescos",
+                "4 cucharadas de queso ricotta",
+                "2 cucharadas de miel",
+                "1 cucharada de nueces picadas"
+            ],
+            "Pasos": [
+                "Tostar las rebanadas de pan.",
+                "Untar el queso ricotta sobre las tostadas.",
+                "Cortar los higos en rodajas y colocarlos sobre el queso.",
+                "Rociar miel y espolvorear nueces picadas por encima.",
+                "Servir inmediatamente."
+            ]
+        }
+    ]
+}
