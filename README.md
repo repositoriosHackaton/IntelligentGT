@@ -6,10 +6,9 @@ Puden, si desean, agregar imágenes o resultados obtenidos.
 
 Recuerden que este readme es su puerta de entrada para su proyecto. 
 
-Un ejemplo puede ser: 
-# Nombre del Proyecto
+# Identificador de frutas para la recomendación de recetas
 
-Breve descripción del proyecto.
+El objetivo de la IA de reconocimiento de frutas para la recomendación de recetas es facilitar una experiencia fluida y enriquecedora en la preparación de alimentos para los usuarios. Esto se logra mediante la identificación precisa de diversas frutas y la recomendación de recetas que aprovechen al máximo sus propiedades nutricionales y gustativas. La IA busca promover una alimentación saludable al proporcionar opciones culinarias variadas y accesibles, adaptadas a diferentes preferencias dietéticas y niveles de habilidad culinaria, con el fin de mejorar la forma en que los usuarios utilizan y disfrutan de las frutas en su vida diaria.
 
 ## Tabla de contenidos
 
@@ -24,42 +23,34 @@ Breve descripción del proyecto.
 
 * Nombre del proyecto
 
-* Breve descripción del proyecto -> Alguna imagen o gif que muestre el proyecto
+Identificador de frutas para la recomendación de recetas
+
+* Breve descripción del proyecto
+
+El objetivo de la IA de reconocimiento de frutas para la recomendación de recetas es facilitar una experiencia fluida y enriquecedora en la preparación de alimentos para los usuarios. Esto se logra mediante la identificación precisa de diversas frutas y la recomendación de recetas que aprovechen al máximo sus propiedades nutricionales y gustativas. La IA busca promover una alimentación saludable al proporcionar opciones culinarias variadas y accesibles, adaptadas a diferentes preferencias dietéticas y niveles de habilidad culinaria, con el fin de mejorar la forma en que los usuarios utilizan y disfrutan de las frutas en su vida diaria.
 
 * Arquitectura del proyecto + imagen
 
 * Proceso de desarrollo:
 
--Fuente del dataset
--Limpieza de datos (img que lo valide)
--Manejo excepciones/control errores
--¿Qué modelo de Machine Learning están usando?
--Estadísticos (Valores, gráficos, …)
--Métrica(s) de evaluación del modelo
+- Fuente del dataset:
 
-* Funcionalidades extra:
+https://www.kaggle.com/datasets/moltean/fruits
 
-Ejem 1: Implementación de chatbot
-- Tecnología/Herramientas usadas (Librería, Framework, …)
-- Arquitectura (img)
-- Indicar fuente del dataset
-- Limpieza de datos (ejem: se usó PLN + img que lo validen)
+- Limpieza de datos (img que lo valide)
+
 - Manejo excepciones/control errores
-- En caso de usar un modelo de ML indicar ¿Qué modelo de Machine Learning están usando?
+
+El modelo cuenta con un control en que informa si la fruta detectada no existe o si por el contrario en algún caso no tiene una receta
+
+- ¿Qué modelo de Machine Learning están usando?
+
+Se está utilizando un modelo de red neuronal convolucional (CNN) para el reconocimiento de imágenes. Las CNN son un tipo de deep learning
+
 - Estadísticos (Valores, gráficos, …)
+
+Tenemos una gráfica de precisión del modelo y de pérdida del modelo, mostrando constantemente los cambios en cada época tanto en la precisión de entrenamiento como en la precisión de validación y la perdida de entramiento junto con la perdida de validación respectivamente.
+
 - Métrica(s) de evaluación del modelo
 
-Ejem 2: Integración del proyecto en una pág web
-- Tecnología/Herramientas usadas …
-- Arquitectura (img)
-
-Ejem 3: Integración del proyecto en un canal WhatsApp, Discord, Telegram, Correo, …
-- Tecnología/Herramientas usadas …
-- Arquitectura (img)
-
-Ejem 4: Desarrollo de interfaz gráfica de usuario
-- Tecnología/Herramientas usadas …
-- Arquitectura (img)
-
-Ejem …: …
-- Tecnología/Herramientas usadas …
+accuracy, val_accuracy, loss, val_loss y categorical_crossentropy como función de pérdida útil para modelos con multiples clases como es el caso
